@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:4:5-24:19
+INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:4:5-24:19
+	android:extractNativeLibs
+		INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:6:9-35
+	android:allowBackup
+		ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:7:9-77
+activity#com.example.pdf2png.MainActivity
+ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:9:9-23:20
+	android:exported
+		ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:12:13-36
+	android:configChanges
+		ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:11:13-74
+	android:name
+		ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:15:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/pdf
+ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.VIEW
+ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:20:27-73
+data
+ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:21:17-60
+	android:mimeType
+		ADDED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml:21:23-57
+uses-sdk
+INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/harikamadishetti/Desktop/meal planner/pdf_to_png/PDF2PNG/app/src/main/AndroidManifest.xml
